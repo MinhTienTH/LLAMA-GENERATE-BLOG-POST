@@ -20,7 +20,7 @@ This project is a Streamlit web application that uses the Hugging Face Hub to ge
 
 1. Clone this repository:
    ```
-   git clone https://github.com/MinhTienTH/blogpost.git
+   git clone https://github.com/MinhTienTH/LLAMA-GENERATE-BLOG-POST.git
    cd generative-blog-post-creator
    ```
 
